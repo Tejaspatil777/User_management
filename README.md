@@ -1,1 +1,0 @@
-The User Management System is a secure backend application built using Spring Boot, Hibernate, and MySQL. It provides CRUD operations to create, update, delete, and manage users efficiently. The system implements JWT-based authentication and role-based authorization (such as ADMIN and EMPLOYEE) to ensure secure access control.
